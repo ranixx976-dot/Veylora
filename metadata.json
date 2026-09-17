@@ -1,0 +1,6 @@
+{
+  "name": "Veylora — Artisanal Full-Grain Leather Goods",
+  "description": "Premium full-grain vegetable-tanned leather everyday carry, tech folios, and travel duffels built for decades of patina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
